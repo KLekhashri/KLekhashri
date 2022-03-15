@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KLekhashri
-- 👀 I’m interested in finding what I am passionate about
+- 👀 I’m interested in finding out what I am passionate about
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me: lekha.181102@gmail.com
